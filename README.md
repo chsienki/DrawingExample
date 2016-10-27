@@ -1,0 +1,1 @@
+This is a simple console app with several bugs used in technical interviews for live debugging.
